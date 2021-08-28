@@ -1,0 +1,25 @@
+.product-list-heading{
+    font-weight:lighter;
+    margin-left: 100px;
+    margin: 100px;
+    font-size: 30px;
+}
+
+.list-items{
+     text-align: center;
+     display: flex;
+    justify-content: space-around;  
+     
+}
+.add-cart{
+    display: flex;
+    justify-content: space-evenly;
+}
+.add-cart button:hover{
+    background-color: gold;
+    border-radius: 10px;
+    /* padding: 0px 6px; */
+}
+.item button{
+    padding: 0px 6px;
+}

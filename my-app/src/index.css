@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(0, 0, 0);
+  /* text-align: center; */
+  color: white;
+  margin: 0px 100px;
+  height: 200vh;
+}
+.list-items{
+    display: flex;
+
+}
+.nav-bar{
+  margin: 10px 50px;
+  display: flex ;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-items li{
+  padding: 10px;
+}
+.cart-value{
+ /* padding: px; */
+ display: flex;
+ background-color: yellowgreen;
+ border-radius: 6px;
+ padding: 3px;
+}
+.cart-value span{
+  padding: 10px;
+  /* margin-top: 10px; */
+  text-align: center;
+}

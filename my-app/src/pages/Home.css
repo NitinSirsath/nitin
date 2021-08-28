@@ -1,0 +1,21 @@
+.main-title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.slogan button{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 2px 10px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+
+.slogan button:hover{
+    background-color: rgb(56, 56, 56);
+}
+.slogan h3{
+    margin-left: 12px;
+}
